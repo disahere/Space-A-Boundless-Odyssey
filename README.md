@@ -1,4 +1,4 @@
-## EpiGuru
+## Space: A Boundless Odyssey
 
 <img src="https://raw.githubusercontent.com/disahere/EpiGuru/main/Illustration/EpiGuruGIF.gif" width="100%" height="auto">
 
